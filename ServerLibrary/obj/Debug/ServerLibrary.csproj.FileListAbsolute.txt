@@ -1,0 +1,20 @@
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\ServerLibrary.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\ServerLibrary.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\ServerLibrary.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\ServerLibrary.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\CommunicationEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\CommunicationEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerLibrary\obj\Debug\ServerLibrary.pdb

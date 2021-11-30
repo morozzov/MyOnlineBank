@@ -1,0 +1,16 @@
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\ExceprionEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\ExceprionEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceptionEntities.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceptionEntities.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceptionEntities.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceprionEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceprionEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\ExceprionEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\ExceprionEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceptionEntities.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceprionEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ExceprionEntities\obj\Debug\ExceprionEntities.pdb

@@ -1,0 +1,16 @@
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\CommunicationEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\CommunicationEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\CommunicationEntities\obj\Debug\CommunicationEntities.pdb

@@ -1,0 +1,42 @@
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.exe.config
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.exe
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\ClientLibrary.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\DBEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\ClientLibrary.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\DBEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.Properties.Resources.resources
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.View.AuthenForm.resources
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csproj.GenerateResource.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.exe
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.View.FormMain.resources
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\HashLib.dll
+C:\Users\R M G\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.View.FormReg.resources
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.exe.config
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.exe
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.exe
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\WFClient.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\ClientLibrary.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\CommunicationEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\DBEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\HashLib.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\ClientLibrary.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\CommunicationEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\DBEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.Properties.Resources.resources
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.View.FormMain.resources
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.View.FormReg.resources
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.View.AuthenForm.resources
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\WFClient\obj\Debug\WFClient.csproj.GenerateResource.Cache

@@ -1,0 +1,125 @@
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ServerWebApi.dll.config
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ServerWebApi.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ServerWebApi.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ru\System.Web.Http.resources.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\CommunicationEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\DBEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\DbWorker.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\MySql.Data.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ExceprionEntities.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Google.Protobuf.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Zstandard.Net.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\BouncyCastle.Crypto.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Ubiety.Dns.Core.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Renci.SshNet.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Buffers.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Hash.xxHash.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Memory.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\CommunicationEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\DBEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\DbWorker.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\MySql.Data.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\ExceprionEntities.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Google.Protobuf.pdb
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Google.Protobuf.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.Streams.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\Renci.SshNet.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Buffers.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Hash.xxHash.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Memory.xml
+\\Mac\Home\Desktop\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\csc.exe
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\vbc.exe
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ServerWebApi.dll.config
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ServerWebApi.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ServerWebApi.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\CommunicationEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\DBEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\DbWorker.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Newtonsoft.Json.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\MySql.Data.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ExceprionEntities.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Google.Protobuf.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Zstandard.Net.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\BouncyCastle.Crypto.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Ubiety.Dns.Core.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Renci.SshNet.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Buffers.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Hash.xxHash.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Memory.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\CommunicationEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\DBEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\DbWorker.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\DbWorker.dll.config
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Newtonsoft.Json.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\MySql.Data.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ExceprionEntities.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Google.Protobuf.pdb
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Google.Protobuf.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\Renci.SshNet.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Buffers.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Compression.LZ4.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\K4os.Hash.xxHash.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Memory.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ru\System.Web.Http.resources.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.csprojAssemblyReference.cache
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.csproj.CoreCompileInputs.cache
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.csproj.CopyComplete
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.dll
+C:\Users\R M G\Desktop\MyOnlineBank\MyOnlineBank\onlinebank\ServerWebApi\obj\Debug\ServerWebApi.pdb
